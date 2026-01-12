@@ -23,5 +23,5 @@ CLOUDINARY_CLOUD_NAME=
 
 CLERK_PUBLISHABLE_KEY=  
 CLERK_SECRET_KEY=  
->>npm install  
->>npm run dev  
+#npm install  
+#npm run dev  
