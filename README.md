@@ -1,13 +1,13 @@
 # spotify-clone
 clone of spotify with chat option
->>cd frontend
->>create .env file
->>VITE_CLERK_PUBLISHABLE_KEY=
->>npm install
->>npm run dev
->>cd backend
->>create env file
->>PORT=
+#cd frontend
+#create .env file
+#VITE_CLERK_PUBLISHABLE_KEY=
+#npm install
+#npm run dev
+#cd backend
+#create env file
+#PORT=
 MONGODB_URI=
 ADMIN_EMAIL=
 NODE_ENV=
