@@ -1,7 +1,10 @@
 # spotify-clone
-clone of spotify with chat option
-#cd frontend
-#create .env file
+clone of spotify with chat option  
+
+#cd frontend  
+
+#create .env file  
+
 #VITE_CLERK_PUBLISHABLE_KEY=
 #npm install
 #npm run dev
